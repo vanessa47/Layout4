@@ -1,0 +1,82 @@
+header{
+  font-size: 25px;
+  color: #F8FFF5;
+  background-color: #333F3F;
+  text-align: center;
+  padding: 10px 520px 10px 0px;
+}
+
+body{
+  font-family: sans-serif;
+  background: #336598;
+  margin: 0px;
+  color: white;
+}
+
+.about {
+  padding: 170px 0px 10px 10px;
+  width: 20%;
+  height: 225px;
+  margin: 40px 0px 0px 250px;
+  background: #0166FF;
+  box-sizing: border-box;
+  float: left;
+}
+
+.products{
+  background: #CD3301;
+  width: 20%;
+  height: 225px;
+  float: left;
+  padding: 170px 0px 10px 10px;
+  margin: 40px 0px 0px 27px;
+  box-sizing: border-box;
+}
+
+.who_we_are{
+  background: #FF6600;
+  width: 20%;
+  height: 225px;
+  float: left;
+  padding: 170px 0px 10px 10px;
+  margin: 40px 0px 0px 27px;
+  box-sizing: border-box;
+}
+
+.map{
+  background: #CC33CC;
+  width: 20%;
+  height: 225px;
+  padding: 170px 0px 10px 10px;
+  margin: 30px 0px 0px 250px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.contact{
+  background: #FF3366;
+  width: 20%;
+  height: 225px;
+  padding: 170px 0px 10px 10px;
+  margin: 30px 0px 0px 27px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.feedback{
+  background: #67CD00;
+  width: 20%;
+  height: 225px;
+  padding: 170px 0px 10px 10px;
+  margin: 30px 0px 0px 27px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.footer{
+  background: #333333;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  margin: 550px 0px 0px 0px;
+}
